@@ -1,5 +1,3 @@
-
-
 ######################## ongc alias ###########################
 
 ## change direcotry
@@ -21,3 +19,7 @@ alias 123='ssh root@123.207.2.57'
 alias emacs="env LC_CTYPE=zh_CN.UTF-8 emacs" 
 #export PS1="\[\e[32;1m\]-> \[\e[0m\]"
 
+<<<<<<< HEAD
+=======
+######################## ongc alias ###########################
+>>>>>>> 02665877e83e05c7d4387da33df9ac980937405a
