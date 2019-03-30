@@ -21,4 +21,3 @@ alias 123='ssh root@123.207.2.57'
 alias emacs="env LC_CTYPE=zh_CN.UTF-8 emacs" 
 #export PS1="\[\e[32;1m\]-> \[\e[0m\]"
 
-##########################
